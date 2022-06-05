@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Booking CURD test with steps","This is for authentication","SUCCESS","2022-06-05T05:12:00.530+01:00[Europe/London]","0.0","5.22"
+"Booking CURD test with steps","This will create a new Booking","SUCCESS","2022-06-05T05:12:05.783+01:00[Europe/London]","0.0","1.1"
+"Booking CURD test with steps","Verify if the Booking was done correctly","SUCCESS","2022-06-05T05:12:06.887+01:00[Europe/London]","0.0","0.7"
+"Booking CURD test with steps","Update the booking","SUCCESS","2022-06-05T05:12:07.584+01:00[Europe/London]","0.0","0.67"
+"Booking CURD test with steps","Delete the booking","SUCCESS","2022-06-05T05:12:08.254+01:00[Europe/London]","0.0","1.22"
